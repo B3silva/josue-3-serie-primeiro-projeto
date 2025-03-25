@@ -148,4 +148,7 @@ z-index: 1000;
 
 }
 
-.rotacao-botao
+.rotacao-botao {
+transform: rotate(-90deg);.
+transform-origin: right center;
+}
